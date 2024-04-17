@@ -22,6 +22,8 @@ class Circle:
 
 c1=Circle(10)
 print(c1.area())
+c1.radius=20
+print(c1.area())
 
 
 
